@@ -3,7 +3,7 @@
 # https://github.com/gdoornenbal/nagios-Weblogic_health
 #
 # version 0.5 jan 2017
-#	* enhanced commandline options and manageability.
+#   * enhanced commandline options and manageability.
 #   * removed lstatus as that MIB doesn't exist.
 #   * added debug to show more info while testing.
 #   * added option to filter applications.
